@@ -5,4 +5,4 @@ CommandLine Practice
 
 
 
-This page is for demo purpose
+This page is for demo [purpose] (http://google.com)
